@@ -1,0 +1,151 @@
+{
+  "months": [
+    "leden",
+    "unor",
+    "brezen",
+    "duben",
+    "kveten",
+    "cerven",
+    "cervenec",
+    "srpen",
+    "zari",
+    "rijen",
+    "listopad",
+    "prosinec"
+  ],
+  "days": [
+    "pondeli",
+    "utery",
+    "streda",
+    "ctvrtek",
+    "patek",
+    "sobota",
+    "nedele"
+  ],
+  "common_suffixes": [
+    "123",
+    "1234",
+    "12345",
+    "123456",
+    "!",
+    "!!",
+    "2024",
+    "2023",
+    "heslo",
+    "ahoj",
+    "Praha",
+    "Brno"
+  ],
+  "keyboard_walks": [
+    "qwerty",
+    "qwert",
+    "asdf",
+    "asdfg",
+    "zxcv",
+    "yxcv",
+    "1qaz",
+    "2wsx",
+    "qazwsx",
+    "123qwe"
+  ],
+  "phonetic": {
+    "sh": "5h",
+    "ch": "xh",
+    "ck": "xk"
+  },
+  "diminutives": {
+    "petr": [
+      "petrik",
+      "peta",
+      "peticek"
+    ],
+    "jan": [
+      "janek",
+      "honza",
+      "honzik"
+    ],
+    "martin": [
+      "martinek",
+      "marti"
+    ],
+    "pavel": [
+      "pavlik",
+      "pavlicek"
+    ],
+    "tomas": [
+      "tomik",
+      "tomasek"
+    ],
+    "jakub": [
+      "kuba",
+      "kubik"
+    ],
+    "lukas": [
+      "lukas",
+      "lucka"
+    ],
+    "michael": [
+      "michal",
+      "micha"
+    ],
+    "marie": [
+      "mara",
+      "marenka",
+      "maja"
+    ],
+    "jana": [
+      "janinka",
+      "janicka"
+    ],
+    "petra": [
+      "petrik",
+      "peticka"
+    ],
+    "katerina": [
+      "katka",
+      "kaca",
+      "katrin"
+    ],
+    "eva": [
+      "evicka",
+      "evka"
+    ],
+    "anna": [
+      "anicka",
+      "anka"
+    ]
+  },
+  "layout": "qwertz",
+  "diacritic_map": {
+    "á": "a",
+    "č": "c",
+    "ď": "d",
+    "é": "e",
+    "ě": "e",
+    "í": "i",
+    "ň": "n",
+    "ó": "o",
+    "ř": "r",
+    "š": "s",
+    "ť": "t",
+    "ú": "u",
+    "ů": "u",
+    "ý": "y",
+    "ž": "z",
+    "Á": "A",
+    "Č": "C",
+    "Ď": "D",
+    "É": "E",
+    "Ě": "E",
+    "Í": "I",
+    "Ň": "N",
+    "Ó": "O",
+    "Ř": "R",
+    "Š": "S",
+    "Ť": "T",
+    "Ú": "U",
+    "Ů": "U",
+    "Ý": "Y",
+    "Ž": "Z"
+  }
+}

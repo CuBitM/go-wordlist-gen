@@ -1,0 +1,30 @@
+{
+  "months": ["yanvar","fevral","mart","aprel","may","iyun","iyul","avgust","sentyabr","oktyabr","noyabr","dekabr"],
+  "days": ["ponedelnik","vtornik","sreda","chetverg","pyatnica","subbota","voskresenie"],
+  "common_suffixes": ["123","1234","12345","123456","!","!!","2024","2023","parol","privet","moskva","love"],
+  "keyboard_walks": ["qwerty","qwert","asdf","asdfg","zxcv","1qaz","2wsx","йцукен","йцук","фыва"],
+  "phonetic": {"sh":"5h","ch":"ch","zh":"zh"},
+  "diminutives": {
+    "ivan":["vanya","vanechka","vanyusha"],
+    "alexander":["sasha","sashka","shura"],
+    "alexei":["alyosha","lyosha"],
+    "dmitri":["dima","dimka","mitya"],
+    "mikhail":["misha","mishka"],
+    "nikolai":["kolya","kolenka"],
+    "vladimir":["volodya","vova","vovka"],
+    "sergei":["seryozha","seryoga"],
+    "anna":["anya","anyuta","annushka"],
+    "elena":["lena","lenka","alyona"],
+    "natalia":["natasha","natka","tasha"],
+    "olga":["olya","olenka"],
+    "tatiana":["tanya","tanyusha"],
+    "maria":["masha","mashenka"]
+  },
+  "layout": "qwerty",
+  "diacritic_map": {
+    "а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"yo","ж":"zh",
+    "з":"z","и":"i","й":"j","к":"k","л":"l","м":"m","н":"n","о":"o",
+    "п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"h","ц":"ts",
+    "ч":"ch","ш":"sh","щ":"sch","ъ":"","ы":"y","ь":"","э":"e","ю":"yu","я":"ya"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "months": ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre","ene","feb","mar","abr","jun","jul","ago","sep","oct","nov","dic"],
+  "days": ["lunes","martes","miercoles","jueves","viernes","sabado","domingo"],
+  "common_suffixes": ["123","1234","12345","123456","!","!!","2024","2023","hola","amor","madrid","barcelona"],
+  "keyboard_walks": ["qwerty","qwert","asdf","asdfg","zxcv","1qaz","2wsx","qazwsx","123qwe"],
+  "phonetic": {"ll":"y","ñ":"n","ch":"x"},
+  "diminutives": {
+    "jose":["pepe","josito","joselito"],
+    "francisco":["paco","pancho","fran"],
+    "juan":["juanito","juanchi"],
+    "maria":["mari","marita","maruja"],
+    "isabel":["isa","belita","chabe"],
+    "antonio":["toni","toño","antoñito"],
+    "carlos":["carlitos","carli"],
+    "pedro":["pedrito","perico"],
+    "miguel":["miguelito","migue"],
+    "ana":["anita","anuca"]
+  },
+  "layout": "qwerty",
+  "diacritic_map": {
+    "á":"a","é":"e","í":"i","ó":"o","ú":"u","ñ":"n","ü":"u",
+    "Á":"A","É":"E","Í":"I","Ó":"O","Ú":"U","Ñ":"N","Ü":"U"
+  }
+}
