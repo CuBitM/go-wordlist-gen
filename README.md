@@ -1,4 +1,7 @@
 # go-wordlist-gen
+⚠️ Disclaimer
+
+This tool is for educational and ethical security testing purposes only. The author is not responsible for any misuse.
 🚀 Key Features
 
 * **Blazing Fast:** Leverages Go's concurrency with worker pools and optimized memory management (`sync.Pool`).
